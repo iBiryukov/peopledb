@@ -1,0 +1,14 @@
+{
+	"name" : "intern-data",
+	"description" : "",
+	"autoload" : {
+		"psr-0" : {
+			"" : "src/"
+		}
+	},
+	"minimum-stability" : "stable",
+	"require" : {
+		"php" : ">=5.3.3",
+		"fzaninotto/faker" : "*"
+	}
+}
